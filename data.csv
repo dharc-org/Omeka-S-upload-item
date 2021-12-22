@@ -1,4 +1,4 @@
-dcterms:title,dcterms:creator,dcterms:description
-"esempio titolo 1","esempio creator 1","esempio descrizione 1"
-"esempio titolo 2","esempio creator 2","esempio descrizione 2"
-"esempio titolo 3","esempio creator 3","esempio descrizione 3"
+item_set	dcterms:title	dcterms:creator	dcterms:description	
+956	esempio titolo 1	esempio creator 1	esempio descrizione 1
+956	esempio titolo 2	esempio creator 2	esempio descrizione 2
+956	esempio titolo 3	esempio creator 3	esempio descrizione 3
